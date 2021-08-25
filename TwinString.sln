@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwinString", "TwinString.csproj", "{341BACF3-5FBC-49C3-8FA3-9799F8142EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwinStringTests", "..\TwinStringTests\TwinStringTests.csproj", "{0046203F-F302-42F0-B083-FE4D4A6E785E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341BACF3-5FBC-49C3-8FA3-9799F8142EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341BACF3-5FBC-49C3-8FA3-9799F8142EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341BACF3-5FBC-49C3-8FA3-9799F8142EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341BACF3-5FBC-49C3-8FA3-9799F8142EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0046203F-F302-42F0-B083-FE4D4A6E785E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0046203F-F302-42F0-B083-FE4D4A6E785E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0046203F-F302-42F0-B083-FE4D4A6E785E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0046203F-F302-42F0-B083-FE4D4A6E785E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {642047E8-1ABD-4DD7-86AD-E4B675A71E8A}
+	EndGlobalSection
+EndGlobal
